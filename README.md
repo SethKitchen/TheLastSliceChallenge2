@@ -1,3 +1,8 @@
+So I've solved the majority of the problem, but I keep getting the wrong answer.... I'm desparate since it's the last day, so if you solve the problem please open an issue with the solution. Thanks!
+
+
+
+
 <img src="ReadmeAssets/thelastslice.jpg">
 
 # Challenge 2
